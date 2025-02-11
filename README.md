@@ -1,4 +1,5 @@
 # Keystroke Dynamics Profiling
+<img src="./image.png" width="800" class="center">
 
 ## Descrizione del Progetto
 Questo progetto esplora l'uso della **keystroke dynamics** per la profilazione dell'utente, identificando attributi come la **lingua parlata**, la **provenienza geografica** e l'**esperienza con la dattilografia**. Utilizzando tecniche di **machine learning**, il progetto analizza dati biometrici comportamentali estratti dalla digitazione per migliorare la classificazione demografica.
